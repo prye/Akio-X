@@ -1,2 +1,2 @@
 # Akio X
-# Imageboard
+Post anything you want on a variety of boards.
